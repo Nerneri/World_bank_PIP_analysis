@@ -1,5 +1,5 @@
 ## PIP_Analysis
-PIP_Analysis notebook is an examination project done by Alexandra Khaidukova and Alisa Narozhnaya, students at HSE University. It is dedicated to analysis of “The Poverty and Inequality Platform: Percentiles” dataset. The analysis is based on two datasets, the shortened PIP Percentiles dataset from the World Bank containing welfare distribution data for 152 countries over 2015-2025, and the World Bank Country and Lending Groups dataset providing regional and income group classifications for 218 economies.
+This project was done as part of a course assesement. It is dedicated to analysis of “The Poverty and Inequality Platform: Percentiles” dataset. The analysis is based on two datasets, the shortened PIP Percentiles dataset from the World Bank containing welfare distribution data for 152 countries over 2015-2025, and the World Bank Country and Lending Groups dataset providing regional and income group classifications for 218 economies.
 
 ## Hypotheses
 * Inequality ratio has decreased over the last decade.
